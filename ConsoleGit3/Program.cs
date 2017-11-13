@@ -12,6 +12,8 @@ namespace ConsoleGit3
         {
             Console.WriteLine("dddddd");
             Console.WriteLine("betaaa");
+            Console.WriteLine("ccccccc");
         }
+    }
     }
 }
