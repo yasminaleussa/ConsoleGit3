@@ -10,6 +10,8 @@ namespace ConsoleGit3
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("dddddd");
+            Console.WriteLine("aaaaaaa");
         }
     }
 }
